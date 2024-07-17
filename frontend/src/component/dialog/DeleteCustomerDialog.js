@@ -1,4 +1,3 @@
-// components/DeleteCustomerDialog.js
 import React from 'react';
 import { Dialog, DialogActions, DialogContent, DialogTitle, Typography, Button } from '@mui/material';
 
